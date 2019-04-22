@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div>
+      <h1>one页面</h1>
+    </div>
 </template>
 
 <script>
